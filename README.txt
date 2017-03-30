@@ -26,6 +26,13 @@ when calling it through python/the command line.
 
 Running
 -------
+Copy rename.bash into the directory you are operating on.
+Launch using 'bash rename.bash .'
+Run 'bash YoutubeUploader.bash DIRECTORY PLAYLIST_NAME'
+
+Then it should be all set, just it will sleep for 3 minutes. 
+You may change this, it just helps keep order on youtube.
+
 The script is primarily used to upload videos in bulk, feel free
 to change the source code depending on what you require.
 
